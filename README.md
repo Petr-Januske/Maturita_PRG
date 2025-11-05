@@ -1,24 +1,24 @@
-# Programování
-## [1. Kódování](./Programovani/Kodovani.md)
-## [2. Datové struktury](./Programovani/Datove_Struktury.md)
+# 💻 Programování
+## 📘 [1. Kódování](./Programovani/Kodovani.md)
+## 🧱 [2. Datové struktury](./Programovani/Datove_Struktury.md)
 
-## [3. Řadící a vyhledávací algoritmy](./Programovani/Radici_a_vyhledavaci_Algoritmy.md)
+## 🔍 [3. Řadící a vyhledávací algoritmy](./Programovani/Radici_a_vyhledavaci_Algoritmy.md)
 
-## [4. UML Diagram](./Programovani/UML_Diagram.md)
+## 📊 [4. UML Diagram](./Programovani/UML_Diagram.md)
 
-## [5. Strukturované programování](./Programovani/Strukturovane_programovani.md)
+## 🧩 [5. Strukturované programování](./Programovani/Strukturovane_programovani.md)
 
-## [6. Objektově orientované programování](./Programovani/Objektove_orientovane_programovani)
+## 🧠 [6. Objektově orientované programování](./Programovani/Objektove_orientovane_programovani)
 
-## [7. Funkcionální programování](./Programovani/Funkcionalni_programovani.md)
+## 🌀 [7. Funkcionální programování](./Programovani/Funkcionalni_programovani.md)
 
-## [8. Událostmi řízené programování](./Programovani/Udalostmi_rizene_programovani.md)
+## ⚙️ [8. Událostmi řízené programování](./Programovani/Udalostmi_rizene_programovani.md)
 
-## [9. Dynamicky typované programovací jazyky](./Programovani/Dynamicky_typovane_programovaci_jazyky.md)
+## 💡 [9. Dynamicky typované programovací jazyky](./Programovani/Dynamicky_typovane_programovaci_jazyky.md)
 
-## [10. Staticky typované programovací jazyky](./Programovani/Staticky_typovane_programovaci_jazyky.md)
+## 🧮 [10. Staticky typované programovací jazyky](./Programovani/Staticky_typovane_programovaci_jazyky.md)
 
-## [11. Programování databázových systému](./Programovani/Programovani_databazovych_systemu.md)
+## 🗄️ [11. Programování databázových systému](./Programovani/Programovani_databazovych_systemu.md)
 
 ## [12. Bezdrátové přenosy - wifi](./Programovani/Bezdratove_prenosy_-_wifi.md)
 
