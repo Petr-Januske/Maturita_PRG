@@ -38,7 +38,7 @@
 
 ## [20. Pneumatické řízení](./Programovani/Pneumaticke_rizeni.md)
 
-# **Aplikovaná Informatika
+# Aplikovaná Informatika
 
 ## [1. Datové struktury](./Programovani/Datove_Struktury.md)
 
