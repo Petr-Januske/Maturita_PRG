@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "790051fba23bf01d",
+    "type": "split",
+    "children": [
+      {
+        "id": "90a8477755414af7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57c05665af3d9ad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maturitni_knihy/Romeo_a_Julie.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Romeo_a_Julie"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64ecafc8ec5f3e2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "426d0717ca789189",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c667121bfd4fe6ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Průzkumník souborů"
+            }
+          },
+          {
+            "id": "31ee5e67db99b769",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Hledat"
+            }
+          },
+          {
+            "id": "0973fef8314612ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Záložky"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb2a07a4f7a388d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "95a123cd76b09962",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fdcce6bd0d0c162",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Maturitní otázky PRG.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Zpětné odkazy pro Maturitní otázky PRG"
+            }
+          },
+          {
+            "id": "9fd0d52cf564c8f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Maturitní otázky PRG.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Odchozí odkazy z Maturitní otázky PRG"
+            }
+          },
+          {
+            "id": "7d127c195902e770",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7dc7d2f948954f12",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Maturitní otázky PRG.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Přehled Maturitní otázky PRG"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Otevřít rychlé přepínání": false,
+      "graph:Otevřít graf": false,
+      "canvas:Vytvořit nový canvas": false,
+      "daily-notes:Otevřít dnešní poznámku": false,
+      "templates:Vložit šablonu": false,
+      "command-palette:Otevřít paletu příkazů": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "57c05665af3d9ad9",
+  "lastOpenFiles": [
+    "README.md",
+    "Maturitni_knihy/Ukazky/Pasted.md",
+    "Maturitni_knihy/Romeo_a_Julie.md",
+    "Maturitni_knihy/Ukazky/Romeo_a_Julie.png",
+    "Maturitni_knihy/Ukazky",
+    "Maturitni_knihy/Ukazky/Romeo_a_Julie.md",
+    "Maturitni_knihy/Ukazky",
+    "Programovani/Kodovani.md",
+    "Programovani/Bezdratove_prenosy_-_wifi.md",
+    "Programovani/Objektove_orientovane_programovani.md",
+    "Maturitni_knihy/Alchymista.md",
+    "Maturitni_knihy/Denik_Anny_Frankove.md",
+    "Maturitni_knihy/Oliver_Twist.md",
+    "Maturitni_knihy/Novy_epochalni_vylet_pana_Broucka.md",
+    "Maturitni_knihy/Smrt_krasnych_srncu.md",
+    "Maturitni_knihy/Robinson_Crusoe.md",
+    "Maturitni_knihy/Valka_s_mloky.md",
+    "Maturitni_knihy/R.U.R.md",
+    "Maturitni_knihy/Spalovac_mrtvol.md",
+    "Maturitni_knihy/Ostre_sledovane_vlaky.md",
+    "Maturitní_knihy",
+    "Maturitni_knihy/Krysar.md",
+    "Maturitni_knihy/Sopphina_Volba.md",
+    "Maturitni_knihy/Svet_podle_Garpa.md",
+    "Maturitni_knihy/Na_zapadni_fronte_klid.md",
+    "Maturitni_knihy/Promena.md",
+    "Maturitni_knihy/Revizor.md",
+    "Maturitni_knihy/Kytice.md",
+    "Maturitni_knihy/Kral_Lavra.md",
+    "Maturitni_knihy/13_R.U.R..docx",
+    "Maturitni_knihy/20_Alchymista.docx",
+    "Maturitni_knihy/19_Denik Anny Frankove.docx",
+    "Maturitni_knihy/18_Oliver Twist.docx",
+    "Maturitni_knihy/17_Novy epocha vylet pana Broucka.docx",
+    "Maturitni_knihy/16_Robinson Crusoe.docx",
+    "Maturitni_knihy/14_Valka s mloky.docx"
+  ]
+}

@@ -1,0 +1,1 @@
+ Quick sort, buble sort, dělaj jsi ve druháku s Votýpkou

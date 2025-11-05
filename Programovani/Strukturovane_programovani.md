@@ -1,0 +1,2 @@
+- Python
+- rozdělení do jednotlivých metod

@@ -1,0 +1,2 @@
+ - Kódování Hoffmanovo kódování 
+ - Je převod informací do určitého formátu, aby je mohl počítač zpracovat používá se například pro ukládání dat 
