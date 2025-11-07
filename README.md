@@ -1,5 +1,6 @@
 # 💻 Programování
-## 📘 [1. Kódování](./Programovani/Kodovani.md)
+## 📘 [1. Kódování](./Programovani/Kodovani.md) 
+
 ## 🧱 [2. Datové struktury](./Programovani/Datove_Struktury.md)
 
 ## 🔍 [3. Řadící a vyhledávací algoritmy](./Programovani/Radici_a_vyhledavaci_Algoritmy.md)
