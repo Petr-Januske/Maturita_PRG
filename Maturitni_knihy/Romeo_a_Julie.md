@@ -100,5 +100,5 @@ Ve Veroně žily po mnoho let dva znepřátelené rody – Montekové a Kapuleto
 	
 Další autoři např. Ital **Giovanni Bocacio** (Dekameron) a **Dante Alighiery** (Božská komedie).
 
-![Ukazka](Maturitni_knihy/Ukazky/Romeo_a_Julie.png)
+![Romeo a Julie](./Ukazky/Romeo_a_Julie.png)
 
