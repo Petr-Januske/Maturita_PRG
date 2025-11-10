@@ -1,3 +1,17 @@
+# 📚 O sekci „Zpracované knížky“
+Tato část repozitáře slouží jako **přehled vypracovaných literárních děl**, která jsou součástí maturitní četby.  
+Každý soubor obsahuje:
+
+- **stručný obsah díla**,
+
+- **charakteristiku hlavních postav**,
+
+- **rozbor kompozice, jazyka a hlavních motivů**,
+
+- **informace o autorovi a době vzniku**.
+
+Cílem je poskytnout **přehledné a kvalitní shrnutí** všech povinných i volitelných knih, aby příprava k maturitě byla rychlejší a efektivnější.
+## Zpracované knížky
 ## 💔 [1. Romeo a Julie](./Romeo_a_Julie.md)
 
 ## 💰 [2. Lakomec](./Lakomec.md)
@@ -37,3 +51,5 @@
 ## 📔 [19. Deník Anny Frankové](./Denik_Anny_frankove.md)
 
 ## 🧙‍♂️ [20. Alchymista](./Alchymista.md)
+
+#### Pokud potřebujete další materiály nebo si chcete ověřit informace, doporučujeme web: 📖 [Milujeme Češtinu](https://www.milujemecestinu.cz/) – kvalitní zdroj rozborů a gramatických přehledů.
