@@ -55,5 +55,5 @@
 ![De Morganvy zákony](./Obrazky/Booleova_Algebra/De_Morganovy_zakony.png)
 
 ### Příklad 231.1
-	$Z=B\cdot\left(\overline{C+D}\right)+A\cdot B\cdot\left(\overline{C+D}\right)=$
-		- Výsledek je $Z=B\cdot\overline{C}\cdot\overline{D}$
+$Z=B\cdot\left(\overline{C+D}\right)+A\cdot B\cdot\left(\overline{C+D}\right)=$
+- Výsledek je $Z=B\cdot\overline{C}\cdot\overline{D}$
