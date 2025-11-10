@@ -1,3 +1,7 @@
+## Úvod
+- Tato složka sdružuje **společná IT témata pro všechny studenty** bez ohledu na zaměření. Pokrývá klíčové okruhy, které každý student střední školy s IT orientací potřebuje znát – od základů datových struktur a webových aplikací přes správu sítí a operačních systémů až po hardware, elektroniku a logiku.
+
+- Záměrem je poskytnout přehledný průvodce, který odpovídá na otázky „Co to je?" a „K čemu to slouží?" a zároveň vytváří most mezi teorií a praktickou aplikací. Materiály jsou vhodné pro studenty všech zaměření, kteří se připravují na maturitní zkoušku nebo si chtějí rozšířit obecné IT vědomosti.
 ## 📘 [1. Datové struktury](/Programovani/Datove_Struktury.md)
 
 ## 🌐 [2. Webové aplikace](./Webove_aplikace.md)

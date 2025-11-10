@@ -1,3 +1,7 @@
+# Úvod
+- Tato složka obsahuje souhrn veškerých témat určených **pro studenty zaměření Programátor**, která jsou klíčová pro přípravu na praktickou i teoretickou část maturitní zkoušky. Každé téma zde najdeš ve stručné i rozšířené podobě – od principů kódování přes algoritmy až po hardwarové základy, které patří do povinné výbavy každého programátora.
+
+- Zaměřujeme se jak na moderní principy programování, tak na reálná využití v praxi i souvislosti s vývojem softwaru, PLC systémy a základní architekturu počítačů.
 ## 📘 [1. Kódování](./Kodovani.md) 
 
 ## 🧱 [2. Datové struktury](./Datove_Struktury.md)

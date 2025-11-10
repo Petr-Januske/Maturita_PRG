@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programovani/README.md",
+                "file": "Aplikovana_informatika/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programovani/README.md",
+                "file": "Aplikovana_informatika/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -173,10 +173,10 @@
   },
   "active": "de12a145f46d647a",
   "lastOpenFiles": [
+    "Programovani/README.md",
     "Aplikovana_informatika/README.md",
     "README.md",
     "Maturitni_knihy/README.md",
-    "Programovani/README.md",
     "Aplikovana_informatika/Booleova_algebra.md",
     "Programovani/Objektove_orientovane_programovani.md",
     "Programovani/Datove_Struktury.md",
