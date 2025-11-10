@@ -9,25 +9,35 @@
 - logický součin
 
 ###  Negace
-- **NOT**                                                   Pravděpodobnostní tabulka	![Logicky_NOT](./Obrazky/Booleova_Algebra/Logicky_NOT.png)
+- **NOT**                                               Pravděpodobnostní tabulka
+
+![Logicky_NOT](./Obrazky/Booleova_Algebra/Logicky_NOT.png)
 
 ### Logický součet 
 - **OR - nebo**
 - disjunkce                                         Pravděpodobnostní tabulka
+
 ![Logicky_OR](./Obrazky/Booleova_Algebra/Logicky_OR.png) 
 
 ### Logický součin
 - **AND - a (zároveň)**
-- konjunkce                                    Pravděpodobností tabulka	![Logicky AND](./Obrazky/Booleova_Algebra/Logicky_AND.png)
+- konjunkce                                    Pravděpodobností tabulka	
+
+![Logicky AND](./Obrazky/Booleova_Algebra/Logicky_AND.png)
 
 ###  Výlučný logický součet
-- **XOR**                                            Pravděpodobností tabulka	![Logicky_XOR](./Obrazky/Booleova_Algebra/Logicky_XOR.png)
+- **XOR**                                            Pravděpodobností tabulka
+
+- ![Logicky_XOR](./Obrazky/Booleova_Algebra/Logicky_XOR.png)
 
 ### Negovaný logický součet
-- **NOR**                                             Pravděpodobností tabulka	![Logicky_NOR](./Obrazky/Booleova_Algebra/Logicky_NOR.png)
+- **NOR**                                             Pravděpodobností tabulka
+
+- ![Logicky_NOR](./Obrazky/Booleova_Algebra/Logicky_NOR.png)
 
 ### Negovaný logický součin 
-- **NAND**                                          Pravděpodobností tabulka	![Logicky_NAND](./Obrazky/Booleova_Algebra/Logicky_NAND.png)
+- **NAND**                                          Pravděpodobností tabulka
+ ![Logicky_NAND](./Obrazky/Booleova_Algebra/Logicky_NAND.png)
 
 ### **Komutativnost**              
 ![Komutativnost](./Obrazky/Booleova_Algebra/Komutativnost.png) 
