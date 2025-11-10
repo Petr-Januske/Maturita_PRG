@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90a8477755414af7",
+        "id": "67b4d34db48a1f5d",
         "type": "tabs",
         "children": [
           {
-            "id": "40b0f2692cfff0c9",
+            "id": "1f7bfbfcd8a81ce5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,10 +171,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "40b0f2692cfff0c9",
+  "active": "1f7bfbfcd8a81ce5",
   "lastOpenFiles": [
-    "Aplikovana_informatika/Datove_typy.md",
+    "Aplikovana_informatika/Aktivni_elektronicke_soucastky.md",
     "README.md",
+    "Aplikovana_informatika/Datove_typy.md",
     "Programovani/Datove_Struktury.md",
     "Programovani/Kodovani.md",
     "Maturitni_knihy/Svet_podle_Garpa.md",
@@ -201,7 +202,6 @@
     "Maturitni_knihy/Robinson_Crusoe.md",
     "Maturitni_knihy/Valka_s_mloky.md",
     "Maturitni_knihy/R.U.R.md",
-    "Maturitni_knihy/Spalovac_mrtvol.md",
     "Maturitní_knihy",
     "Maturitni_knihy/13_R.U.R..docx",
     "Maturitni_knihy/20_Alchymista.docx",
