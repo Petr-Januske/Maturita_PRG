@@ -28,12 +28,12 @@
 ###  Výlučný logický součet
 - **XOR**                                            Pravděpodobností tabulka
 
-- ![Logicky_XOR](./Obrazky/Booleova_Algebra/Logicky_XOR.png)
+ ![Logicky_XOR](./Obrazky/Booleova_Algebra/Logicky_XOR.png)
 
 ### Negovaný logický součet
 - **NOR**                                             Pravděpodobností tabulka
 
-- ![Logicky_NOR](./Obrazky/Booleova_Algebra/Logicky_NOR.png)
+ ![Logicky_NOR](./Obrazky/Booleova_Algebra/Logicky_NOR.png)
 
 ### Negovaný logický součin 
 - **NAND**                                          Pravděpodobností tabulka
