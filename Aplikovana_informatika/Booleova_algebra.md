@@ -37,6 +37,7 @@
 
 ### Negovaný logický součin 
 - **NAND**                                          Pravděpodobností tabulka
+
  ![Logicky_NAND](./Obrazky/Booleova_Algebra/Logicky_NAND.png)
 
 ### **Komutativnost**              
