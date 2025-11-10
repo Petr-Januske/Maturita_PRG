@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "67b4d34db48a1f5d",
+        "id": "82594449d8a0c746",
         "type": "tabs",
         "children": [
           {
-            "id": "de12a145f46d647a",
+            "id": "19b2ba27e8d76d09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aplikovana_informatika/README.md",
+                "file": "Aplikovana_informatika/Booleova_algebra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Booleova_algebra"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aplikovana_informatika/README.md",
+                "file": "Aplikovana_informatika/Booleova_algebra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Přehled README"
+              "title": "Přehled Booleova_algebra"
             }
           }
         ],
@@ -171,13 +171,24 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "de12a145f46d647a",
+  "active": "19b2ba27e8d76d09",
   "lastOpenFiles": [
-    "Programovani/README.md",
-    "Aplikovana_informatika/README.md",
-    "README.md",
-    "Maturitni_knihy/README.md",
+    "Aplikovana_informatika/Obrázky/Booleova_Algebra/Pasted image 20251110184736.png",
+    "Aplikovana_informatika/Obrázky/Booleova_Algebra/Pasted image 20251110184637.png",
     "Aplikovana_informatika/Booleova_algebra.md",
+    "Aplikovana_informatika/Obrázky/Booleova_Algebra/Pasted image 20251110184514.png",
+    "Aplikovana_informatika/Obrázky/Booleova_Algebra/Pasted image 20251110184347.png",
+    "Aplikovana_informatika/Obrázky/Booleova_Algebra/Pasted image 20251110183731.png",
+    "Aplikovana_informatika/Obrázky/Booleova_Algebra/Pasted image 20251110183206.png",
+    "Aplikovana_informatika/Obrázky/Booleova_Algebra/Pasted image 20251110183428.png",
+    "Aplikovana_informatika/Instalace_OS.md",
+    "Maturitni_knihy/Romeo_a_Julie.md",
+    "Aplikovana_informatika/Obrázky/Booleova_Algebra",
+    "Aplikovana_informatika/Obrázky",
+    "README.md",
+    "Aplikovana_informatika/README.md",
+    "Programovani/README.md",
+    "Maturitni_knihy/README.md",
     "Programovani/Objektove_orientovane_programovani.md",
     "Programovani/Datove_Struktury.md",
     "Programovani/Strukturovane_programovani.md",
@@ -194,21 +205,16 @@
     "Maturitni_knihy/Promena.md",
     "Maturitni_knihy/Revizor.md",
     "Maturitni_knihy/Kytice.md",
-    "Maturitni_knihy/Romeo_a_Julie.md",
     "Maturitni_knihy/Lakomec.md",
     "Maturitni_knihy/Ukazky/Pasted.md",
     "Maturitni_knihy/Ukazky/Romeo_a_Julie.png",
     "Maturitni_knihy/Ukazky",
     "Maturitni_knihy/Ukazky/Romeo_a_Julie.md",
     "Maturitni_knihy/Ukazky",
-    "Programovani/Bezdratove_prenosy_-_wifi.md",
-    "Maturitni_knihy/Oliver_Twist.md",
     "Maturitní_knihy",
     "Maturitni_knihy/13_R.U.R..docx",
     "Maturitni_knihy/20_Alchymista.docx",
     "Maturitni_knihy/19_Denik Anny Frankove.docx",
-    "Maturitni_knihy/18_Oliver Twist.docx",
-    "Maturitni_knihy/17_Novy epocha vylet pana Broucka.docx",
-    "Maturitni_knihy/16_Robinson Crusoe.docx"
+    "Maturitni_knihy/18_Oliver Twist.docx"
   ]
 }
