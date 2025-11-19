@@ -1,6 +1,5 @@
-- # **Booleova algebra**
-	je oblast matematiky, která se zabývá **logickými hodnotami** a **operacemi s nimi**. Používá se hlavně v **informatice, elektronice a logice**, například při návrhu **logických obvodů** nebo **programování podmínek**.
-
+# **Booleova algebra**
+- je oblast matematiky, která se zabývá **logickými hodnotami** a **operacemi s nimi**. Používá se hlavně v **informatice, elektronice a logice**, například při návrhu **logických obvodů** nebo **programování podmínek**
 - Je algebra pracující: s logickými hodnotami 0 a 1
 
 ## Základními operacemi:
@@ -13,39 +12,61 @@
 
 ![Logicky_NOT](./Obrazky/Booleova_Algebra/Logicky_NOT.png)
 
+**Symbol: ¬A, Ā**
+#### Praktická ukázka:
+- Není-li hezky, je špatné počasí
 ### Logický součet 
 - **OR - nebo**
 - disjunkce                                         Pravděpodobnostní tabulka
 
 ![Logicky_OR](./Obrazky/Booleova_Algebra/Logicky_OR.png) 
 
+**Symbol: A+B, A∨B**
+#### Praktický příklad:
+- Projdete zkouškou, pokud máte 50% bodů **Nebo** vám profesor pomůže
 ### Logický součin
 - **AND - a (zároveň)**
-- konjunkce                                    Pravděpodobností tabulka	
+- konjunkce                                    Pravděpodobností tabulka
+
 
 ![Logicky AND](./Obrazky/Booleova_Algebra/Logicky_AND.png)
 
+**Symbol: A·B, A∧B**
+#### Praktický příklad:
+- Můžete koupit sladkosti, pokud máte peníze "A" a máte hlad "B"
 ###  Výlučný logický součet
 - **XOR**                                            Pravděpodobností tabulka
-
+ 
  ![Logicky_XOR](./Obrazky/Booleova_Algebra/Logicky_XOR.png)
-
+ 
+**Symbol: A⊕B**
+#### Praktický příklad:
+- Půjdete do kina **nebo** na procházku, ale ne na obojí
 ### Negovaný logický součet
 - **NOR**                                             Pravděpodobností tabulka
 
- ![Logicky_NOR](./Obrazky/Booleova_Algebra/Logicky_NOR.png)
+![Logicky_NOR](./Obrazky/Booleova_Algebra/Logicky_NOR.png)
 
+**Symbol: ¯(A+B)**
+#### Praktický příklad:
+- Nemáte čas **Ani** nemáte peníze
 ### Negovaný logický součin 
 - **NAND**                                          Pravděpodobností tabulka
 
- ![Logicky_NAND](./Obrazky/Booleova_Algebra/Logicky_NAND.png)
+![Logicky_NAND](./Obrazky/Booleova_Algebra/Logicky_NAND.png)
 
-### **Komutativnost**              
+**Symbol: ¯(A·B)**
+
+#### Praktický přiklad:
+- Není pravda, že máte peníze **a** máte čas
+### **Komutativnost**
+- Pořadí operandů nemá vliv na výsledek
 ![Komutativnost](./Obrazky/Booleova_Algebra/Komutativnost.png) 
 ### **Asociativita**
+- Seskupení operandů nemá vliv na výsledek
 ![Asociativita](./Obrazky/Booleova_Algebra/Asociativita.png)
-
 ### **Distributivnost**
+- Umožnuje rozvinout nebo faktorizovat výrazy
 ![Distributivnost](./Obrazky/Booleova_Algebra/Distributivnost.png)
 
 ### **Vlastnosti**

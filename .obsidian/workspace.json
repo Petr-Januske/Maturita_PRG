@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 369.5026054382324
   },
   "right": {
     "id": "cb2a07a4f7a388d8",
@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,8 +173,12 @@
   },
   "active": "19b2ba27e8d76d09",
   "lastOpenFiles": [
-    "Aplikovana_informatika/Obrazky/Booleova_Algebra/De_Morganovy_zakony.png",
+    "Aplikovana_informatika/Navrh_LAN_siti.md",
+    "Programovani/Bezdratove_prenosy_-_wifi.md",
+    "README.md",
     "Aplikovana_informatika/Booleova_algebra.md",
+    "Aplikovana_informatika/README.md",
+    "Aplikovana_informatika/Obrazky/Booleova_Algebra/De_Morganovy_zakony.png",
     "Aplikovana_informatika/Obrazky/Booleova_Algebra/Booleova_algebra_vlastnosti.png",
     "Aplikovana_informatika/Aktivni_elektronicke_soucastky.md",
     "Aplikovana_informatika/Obrazky/Booleova_Algebra/Distributivnost.png",
@@ -188,8 +193,6 @@
     "Aplikovana_informatika/Instalace_OS.md",
     "Aplikovana_informatika/Obrazky/Booleova_Algebra",
     "Aplikovana_informatika/Obrazky",
-    "README.md",
-    "Aplikovana_informatika/README.md",
     "Programovani/README.md",
     "Maturitni_knihy/README.md",
     "Programovani/Objektove_orientovane_programovani.md",
@@ -210,7 +213,6 @@
     "Maturitni_knihy/Lakomec.md",
     "Maturitni_knihy/Ukazky/Pasted.md",
     "Maturitni_knihy/Ukazky",
-    "Maturitni_knihy/Ukazky/Romeo_a_Julie.md",
     "Maturitni_knihy/Ukazky",
     "Maturitní_knihy",
     "Maturitni_knihy/13_R.U.R..docx",
