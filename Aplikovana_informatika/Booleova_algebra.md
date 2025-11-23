@@ -78,3 +78,11 @@
 ### Příklad 231.1
 $Z=B\cdot\left(\overline{C+D}\right)+A\cdot B\cdot\left(\overline{C+D}\right)=$
 - Výsledek je $Z=B\cdot\overline{C}\cdot\overline{D}$
+
+
+pod témata 
+Boleova algebra
+operace a vlastnosti
+K mapy
+úplné součtové a součiné mapy
+co to je a tak
